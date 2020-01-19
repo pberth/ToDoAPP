@@ -14,12 +14,12 @@ const routes = [
     component: Home
   },
   {
-    path: "ToDoAPP/signin",
+    path: "/ToDoAPP/signin",
     name: "signin",
     component: Signin
   },
   {
-    path: "ToDoAPP/register",
+    path: "/ToDoAPP/register",
     name: "register",
     component: Register
   },
